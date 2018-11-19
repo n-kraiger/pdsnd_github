@@ -32,7 +32,7 @@ def get_time_period():
     return time_period
 
 def get_month():
-    '''Returns the specific month entered after the prompt
+    '''Returns the specific month requested by the user
     '''
     month_input = ''
     months_dict = {'january': 1, 'february': 2, 'march': 3, 'april': 4,
