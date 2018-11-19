@@ -1,14 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+31/10/2018
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The script explores and analyses bikeshare data from Chicago, New York and Washington. The data includes variables such as 
+start time, start and end stations, gender, user type and age of user
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
