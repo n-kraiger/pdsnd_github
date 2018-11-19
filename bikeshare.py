@@ -143,7 +143,7 @@ def trip_duration(df):
     
     # TO DO: Display counts of user types
 def users(df):
-    '''Returns the different types of users
+    '''Returns the subscriber and customer user types
     '''
     subs = df.query('user_type == "Subscriber"').user_type.count()
     cust = df.query('user_type == "Customer"').user_type.count()
